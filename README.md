@@ -8,7 +8,7 @@ The code was also modified for long term sustainability by replacing existing el
 
 ## Installation
 
-No installation required to view the code on GitHub but to view on a local machine, pull the code from my GitHub using Git (or Terminal) and use the following (or similar) programs:
+To view on a local machine, pull the code from my GitHub using Git (or Terminal) and use the following (or similar) programs:
 
 Operating System: Windows_NT x64 10.0.18363
 Visual Studio Code: 1.48.2
