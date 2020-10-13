@@ -6,6 +6,18 @@ Given starter code, the goal was to modify the code to make it follow accessibil
 
 The code was also modified for long term sustainability by replacing existing elements with semantic elements, adding comments to sections and/or elements, ensuring link functionality, organizing and consolidating the CSS to follow the semantic structure of the HTML elements.
 
+## Check it out here! 
+
+[GitHub repo](https://github.com/jre23/semantic-code-refactor)
+
+[Deployed on GitHub pages](https://jre23.github.io/semantic-code-refactor)
+
+## Screenshots:
+
+![semantic code refactor screenshot 1](https://user-images.githubusercontent.com/69170823/95828849-530a5a00-0cea-11eb-8a4a-0098ea67fe32.png)
+
+![semantic code refactor screenshot 2](https://user-images.githubusercontent.com/69170823/95828964-7a612700-0cea-11eb-93c3-abdb084a08e1.png)
+
 ## Installation
 
 To view on a local machine, pull the code from my GitHub using Git (or Terminal) and use the following (or similar) programs:
@@ -15,10 +27,12 @@ Visual Studio Code: 1.48.2
 Google Chrome: 78.0.3904.130
 Git for Windows: 2.28.0.1
 
+Git clone link: https://github.com/jre23/semantic-code-refactor.git
+
 ## Usage
 
 Completed project can be viewed on GitHub or see ##Installation above for local machine viewing.
 
 ## Credits
 
-This was the first assignment completed as part of the University of Washington Coding Boot Camp. (https://bootcamp.uw.edu/coding/)
+This was the first assignment completed as part of the University of Washington Coding Boot Camp. [UW Coding Boot Camp Home Page](https://bootcamp.uw.edu/coding/)
